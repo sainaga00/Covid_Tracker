@@ -15,8 +15,10 @@ A web browser (Chrome, Firefox, etc.)
 Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/covid19-tracker.git
-cd covid19-tracker
+git clone https://github.com/yourusername/covid19-tracker.git.
+
+cd covid19-tracker.
+
 Open index.html in your web browser.
 
 API
