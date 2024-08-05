@@ -9,10 +9,12 @@ Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
 
 Prerequisites
-A web browser (Chrome, Firefox, etc.)
-Installation
-Clone the repository:
 
+A web browser (Chrome, Firefox, etc.)
+
+Installation
+
+Clone the repository:
 git clone https://github.com/yourusername/covid19-tracker.git
 cd covid19-tracker
 Open index.html in your web browser.
